@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Javier</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
