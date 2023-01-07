@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, mi nombre es Javier</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
-<h3 align="left">Soy Nabil Allis, apasionado por la programación y la tecnología! 😄 💻
+<h3 align="left">Soy Javier Ojeda, apasionado por la programación y la tecnología! 😄 💻
 
 Egresado de Full Stack Web Developer 🎓 de www.soyhenry.com, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.</h3>
 <p align="left">
